@@ -9,3 +9,7 @@ function func2(){
 function func3 (){
     
 }
+
+function feature1(){
+    
+}
